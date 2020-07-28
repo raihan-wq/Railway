@@ -67,7 +67,7 @@ label{padding:0px !important; padding-top:10px !important;}
 .column-three{flex-direction:column;}
 .column-three > .column-three-sub{flex:0;}
 .column-three-sub-i{margin:auto; display:block; margin-bottom:0px !important;}
-.footer{}
+.footer{flex-direction:column;}
 .footer-btn{margin-bottom:10px !important;}
 .footer .footer-one{flex:2 !important;}
 .footer .footer-two{flex:1 !important; align-self:center;}
